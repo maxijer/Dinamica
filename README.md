@@ -1,0 +1,2 @@
+# Dinamica
+Homework dynamic programming
